@@ -1,6 +1,6 @@
 # 📚 Quanbooks
 
-Website lưu trữ truyện đọc của tôi.
+Truyện của Quan!
 
 ## Mục lục
-- 📖 [Truyện A](truyen-a/)
+- 📖 [Nữ Đế Chấn Kinh: Ta Sư Tôn, Hắn Không Phải Bại Hoại Sao](truyen-a/)
