@@ -3,5 +3,4 @@
 Website lưu trữ truyện đọc của tôi.
 
 ## Mục lục
-- Chương 1
-- Chương 2
+- 📖 [Truyện A](truyen-a/)
