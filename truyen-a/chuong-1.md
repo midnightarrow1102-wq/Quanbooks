@@ -99,6 +99,5 @@ Nửa canh giờ trôi qua.
 Ánh mắt Chung Thần Tú lóe lên tinh quang, nắm chặt tay thành quyền, toàn thân hắn ẩn chứa sức mạnh kinh khủng.
 
 Giờ phút này trong tâm trí hắn, mảnh vỡ đồng xanh đang lơ lửng, tỏa ra Hồng Mông Tử Khí thần bí, một bộ kinh văn cường đại đã khắc sâu vào linh hồn hắn.
----
 
 [⬅️ Mục lục](README.md) | [➡️ Chương 2](chuong-2.md)
